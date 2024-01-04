@@ -2,6 +2,11 @@
     margin: 0px;
     padding: 0px;
 }
+h2{
+    color: rgb(245, 21, 21);
+    font-weight: bolder;
+    background-color: green;
+}
 .main-container{
     height: 100vh;
     background-color: bisque;
